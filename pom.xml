@@ -24,7 +24,7 @@
         <spring-cloud.version>Greenwich.SR3</spring-cloud.version>
         <mybatis.spring.boot.version>2.1.1</mybatis.spring.boot.version>
         <mybatis.plus.version>3.2.0</mybatis.plus.version>
-        <beetl.version>2.9.10</beetl.version>
+        <beetl.version>3.15.13.RELEASE</beetl.version>
     </properties>
 
     <dependencies>
